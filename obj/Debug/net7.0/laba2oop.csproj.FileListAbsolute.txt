@@ -1,0 +1,14 @@
+C:\Users\hfdkw\OneDrive\Рабочий стол\laba2oop\bin\Debug\net7.0\laba2oop.exe
+C:\Users\hfdkw\OneDrive\Рабочий стол\laba2oop\bin\Debug\net7.0\laba2oop.deps.json
+C:\Users\hfdkw\OneDrive\Рабочий стол\laba2oop\bin\Debug\net7.0\laba2oop.runtimeconfig.json
+C:\Users\hfdkw\OneDrive\Рабочий стол\laba2oop\bin\Debug\net7.0\laba2oop.dll
+C:\Users\hfdkw\OneDrive\Рабочий стол\laba2oop\bin\Debug\net7.0\laba2oop.pdb
+C:\Users\hfdkw\OneDrive\Рабочий стол\laba2oop\obj\Debug\net7.0\laba2oop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hfdkw\OneDrive\Рабочий стол\laba2oop\obj\Debug\net7.0\laba2oop.AssemblyInfoInputs.cache
+C:\Users\hfdkw\OneDrive\Рабочий стол\laba2oop\obj\Debug\net7.0\laba2oop.AssemblyInfo.cs
+C:\Users\hfdkw\OneDrive\Рабочий стол\laba2oop\obj\Debug\net7.0\laba2oop.csproj.CoreCompileInputs.cache
+C:\Users\hfdkw\OneDrive\Рабочий стол\laba2oop\obj\Debug\net7.0\laba2oop.dll
+C:\Users\hfdkw\OneDrive\Рабочий стол\laba2oop\obj\Debug\net7.0\refint\laba2oop.dll
+C:\Users\hfdkw\OneDrive\Рабочий стол\laba2oop\obj\Debug\net7.0\laba2oop.pdb
+C:\Users\hfdkw\OneDrive\Рабочий стол\laba2oop\obj\Debug\net7.0\laba2oop.genruntimeconfig.cache
+C:\Users\hfdkw\OneDrive\Рабочий стол\laba2oop\obj\Debug\net7.0\ref\laba2oop.dll
